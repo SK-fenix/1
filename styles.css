@@ -312,7 +312,7 @@ body {
 	align-items: center;
 	justify-content: space-around;
 	font-size: 4vw;
-	padding-top: 3%;
+	padding-top: 5%;
 	background-color: #0374DF;
 	border-radius: 20px;
 	width: 100%;
@@ -426,7 +426,7 @@ body {
 	background-color: #0374DF;
 	border-radius: 20px;
 	width: 50%;
-	padding-top: 3%;
+	padding-top: 2%;
 	height: 60%;
 	font-size: 4vw;
 }
