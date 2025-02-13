@@ -316,10 +316,9 @@ body {
 	background-color: #0374DF;
 	border-radius: 20px;
 	width: 100%;
-	height: 30%;
+	height: 35%;
 	color: white;
-
-	padding-block: 1%;
+	padding-top: 3%;
 }
 
 .p3b2-concluded-text{
