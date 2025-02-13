@@ -165,7 +165,7 @@ body {
 	padding-right: 3%;
 	width: fit-content;
 	text-align: center;
-	height: 5%;
+	height: 7%;
 	margin-bottom: 5%;
 }
 .character-card-blue1{
@@ -175,6 +175,7 @@ body {
 	font-size: 2vw;
 	background-color: #0374DF;
 	border-radius: 20px;
+	padding-top: 1%;
 	padding-left: 3%;
 	padding-right: 3%;
 	width: 80%;
